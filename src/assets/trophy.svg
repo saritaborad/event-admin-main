@@ -1,0 +1,27 @@
+<svg width="35" height="35" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="34" height="34" fill="#919191"/>
+<g id="Super Admin">
+<path d="M-1798 -673C-1798 -674.105 -1797.1 -675 -1796 -675H303C304.105 -675 305 -674.105 305 -673V346C305 347.105 304.105 348 303 348H-1796C-1797.1 348 -1798 347.105 -1798 346V-673Z" fill="#404040"/>
+<g id="Menus">
+<g id="Admin-box">
+<rect x="-27" y="-27" width="155" height="130" rx="15" fill="white"/>
+<g id="Frame 43">
+<rect x="-12" y="-12" width="58" height="58" rx="15" fill="#E6E6E6"/>
+<g id="SVGRepo_iconCarrier">
+<g id="trophy">
+<path id="Vector" d="M34 0H0V34H34V0Z" fill="white" fill-opacity="0.01"/>
+<g id="&#231;&#188;&#150;&#231;&#187;&#132;">
+<path id="Oval-6" d="M17 21.25C21.6944 21.25 25.5 17.3325 25.5 12.5V2.83333H8.5V12.5C8.5 17.3325 12.3056 21.25 17 21.25Z" fill="#FE385C" stroke="#FE385C" stroke-width="2" stroke-linejoin="round"/>
+<path id="Oval-3-Copy" fill-rule="evenodd" clip-rule="evenodd" d="M8.50004 14.875V7.79166H2.83337C2.83337 12.5139 5.66671 14.875 8.50004 14.875Z" stroke="#FE385C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Oval-3-Copy-2" fill-rule="evenodd" clip-rule="evenodd" d="M25.5 14.875V7.79166H31.1667C31.1667 12.5139 28.3333 14.875 25.5 14.875Z" stroke="#FE385C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path-13" d="M17 22.6667V25.5" stroke="#FE385C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path-14" d="M10.625 29.75L13.2388 25.5H20.5718L23.375 29.75H10.625Z" fill="#FE385C" stroke="#FE385C" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M-1796 -674H303V-676H-1796V-674ZM304 -673V346H306V-673H304ZM303 347H-1796V349H303V347ZM-1797 346V-673H-1799V346H-1797ZM-1796 347C-1796.55 347 -1797 346.552 -1797 346H-1799C-1799 347.657 -1797.66 349 -1796 349V347ZM304 346C304 346.552 303.552 347 303 347V349C304.657 349 306 347.657 306 346H304ZM303 -674C303.552 -674 304 -673.552 304 -673H306C306 -674.657 304.657 -676 303 -676V-674ZM-1796 -676C-1797.66 -676 -1799 -674.657 -1799 -673H-1797C-1797 -673.552 -1796.55 -674 -1796 -674V-676Z" fill="white" fill-opacity="0.1"/>
+</g>
+</svg>

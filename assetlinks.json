@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.digievent.event",
+            "sha256_cert_fingerprints": [
+                "DB:01:2C:4D:79:EE:32:99:E8:7F:A8:EC:47:9A:CF:38:64:46:AA:E3:E4:D8:C8:00:FE:A8:0F:8D:58:6D:8D:4B"
+            ]
+        }
+    }
+]
